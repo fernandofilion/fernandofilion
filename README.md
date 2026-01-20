@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing, databases, statistics and data science.
 - 🌱 I’m currently learning pyton.
 - 💞️ I’m looking to collaborate on databases
-- 📫 How to reach me fernandofilion@gmail.com
+
 
 <!---
 fernandofilion/fernandofilion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
